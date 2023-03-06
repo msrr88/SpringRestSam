@@ -8,5 +8,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @Configuration
 @ComponentScan(basePackages= {"com.sample.springrest"})
 public class AppConfig {
+  //Adding the dummy.
 
 }
